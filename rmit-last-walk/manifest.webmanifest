@@ -1,0 +1,18 @@
+{
+  "name": "RMIT Last Walk · 校园探索",
+  "short_name": "RMIT Last Walk",
+  "description": "毕业前两天校园打卡导航，离线记录与可选私有云同步",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f3ea",
+  "theme_color": "#17241f",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
